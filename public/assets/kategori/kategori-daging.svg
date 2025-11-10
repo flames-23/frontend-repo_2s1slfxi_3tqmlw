@@ -1,0 +1,13 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" fill="transparent"/>
+  <g filter="url(#shadow)">
+    <ellipse cx="512" cy="560" rx="260" ry="200" fill="#FFD9E0"/>
+    <ellipse cx="512" cy="560" rx="170" ry="120" fill="#FF8DA1"/>
+    <circle cx="512" cy="560" r="38" fill="#FFE3E8"/>
+  </g>
+  <defs>
+    <filter id="shadow" x="0" y="0" width="1024" height="1024" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#0A141E" flood-opacity="0.06"/>
+    </filter>
+  </defs>
+</svg>
